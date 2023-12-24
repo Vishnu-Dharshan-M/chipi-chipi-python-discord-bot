@@ -5,4 +5,4 @@ For now it has simple commands like writing something into a text chat, sending 
 This can serve as a basis to begin the works of a larger discord bot project. Haffun!!
 
 
-### CHIPI CHIPI CHAPA CHAPA DUBI DUBI DABA DABA 
+### *CHIPI CHIPI CHAPA CHAPA DUBI DUBI DABA DABA* 
